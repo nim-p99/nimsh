@@ -21,3 +21,14 @@ Includes the built-in functions: `cd`, `help`, `exit`.
 Limitations:
 - any whitespace will be interpreted as a separation of command arguments.
 
+How to run:
+- compile (eg gcc)
+  ```c
+  gcc -o shell shell.c
+  ```
+- run program
+  ```c
+  ./shell
+  ```
+
+
